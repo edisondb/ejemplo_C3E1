@@ -1,3 +1,0 @@
-Este es el primer fichero de ejemplo para 
-mostrar el comportamiento de git antes 
-mostrar el comportamiento de git ante los cambios...
